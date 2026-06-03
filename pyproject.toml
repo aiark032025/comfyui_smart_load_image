@@ -1,0 +1,9 @@
+[project]
+name = "comfyui_smart_load_image"
+version = "1.0.0"
+description = "Smart Load Image node: base-folder + single-level subfolder selection, video filtering, upload and refresh, with selection preserved across workflow reloads."
+license = { text = "MIT" }
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/local/comfyui_smart_load_image"
