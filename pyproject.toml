@@ -1,7 +1,7 @@
 [project]
 name = "smart_load_image"
 description = "A single custom node, Load Image (Smart), that addresses several shortcomings of ComfyUI's built-in image loaders. It includes: Base folder selector – choose between output and input; subfolder selector – lists single-level subfolders of the selected base folder; videos filtered out – the image list only shows files whose mimetype is an image; selection survives reloads – unlike the built-in Load Image (Outputs) node, the saved selection is preserved when a workflow is reloaded or refreshed."
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT" 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
